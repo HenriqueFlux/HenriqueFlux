@@ -9,4 +9,4 @@ Systems Information Student. I am a lifelong learner, passionate about technolog
 Looking forward to an opportunity to develop my career in technology and start doing what I love so much 🤍
 
 Tools that I work <br />
-**_Python - HTML - Java - MySQL_**
+**_Python - HTML - Java - MySQL - Git - Github_**
